@@ -1,0 +1,245 @@
+*{
+   margin: 0%;
+   font-family: arial, 'Segoe UI', Tahoma, Verdana, sans-serif;
+   box-sizing: border-box ;
+}
+.section1{
+    background-image: url(drew-coffman-1872.jpg) ;
+    background-size: cover;
+    text-align: center;
+    height: 100vh;
+}
+.contaniera{
+   width: 90%;
+   margin: auto;
+}
+.logo img{
+   width: 150px;
+   float: left;
+}
+.nav{
+   list-style: none;
+   float: right;
+}
+.clrfix{
+   clear: both;
+}
+.nav a{
+text-decoration: none;
+color: rgb(255, 255, 255);
+font-size: 16px;
+}
+.nav li{
+   float: left;
+   padding: 20px;
+}
+.mainp{
+   color: rgb(204, 204, 204);
+   line-height :44 px ;
+   font-weight: 400;
+   font-size: 20px;
+}
+.mainh{
+   font-size: 45px;
+   color: rgb(255, 255, 255);
+}
+.btn1{
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(92, 62, 38);
+    padding: 15px 20px;
+    border: none;
+
+   }
+.btn2{
+    border-radius: 10px;
+    color: white;
+    background-color: rgba(240, 248, 255, 0);
+    padding: 15px 20px;
+    border-color: rgba(255, 255, 255, 0.5) ;
+}
+.btn3{
+  width: 30px;
+  height: 50px;
+   color: white;
+   
+   border-radius: 40%;
+   border: white solid 2px;
+   background-color: rgba(240, 248, 255, 0);
+}
+
+.section2{
+    margin: auto;
+ }
+ 
+.container2{
+    width: 80%;
+}
+ .p1 , .img1{
+     text-align: center;
+     float: left;
+     width: 45%;
+     margin-left: 30px;
+    }
+ .img1{
+    border-radius: 20px;
+    width: 500px;
+    
+ }
+ .p1{
+margin-top: 30px;
+ }
+ .p1 p{
+    line-height: 30px;
+ }
+ ul{
+    text-align: left;
+    list-style-type: none;
+    
+ }
+ .clrfix{
+    clear: both;
+ }
+ /* *?section3 */
+ .section3{
+    margin: auto;
+    background-color: rgba(192, 192, 192, 0.247);
+ }
+ 
+ .container3{
+    /* width: 80%; */
+    text-align: center;
+ }
+ .p3 , .img3{
+     
+     float: left;
+     width: 45%;
+     
+     margin-left: 30px;
+    }
+ .img3{
+    border-radius: 20px;
+    width: 500px;
+    
+ }
+ .p3{
+ margin-top: 30px;
+ }
+ .p3 p{
+    line-height: 30px;
+ }
+ ul{
+    text-align: left;
+    list-style-type: none;
+    
+ }
+ .clrfix{
+    clear: both;
+ }
+
+/* *? section 4 */
+
+.section4{
+   
+   text-align: center;
+}
+.container{
+    width: 80%;
+    margin: auto;
+
+}
+.row img{
+    width: 100%;
+    border-radius: 20px;
+    
+}
+.row{
+    width: 33%;
+    float: left;
+    margin: 1px;
+    padding: 2px;
+}
+    /* *? section 5 */
+.container5{
+   /* margin: 0%; */
+    width: 100%;
+    background-color: rgba(212, 212, 211, 0.589);
+    /* margin: auto; */
+    text-align: center;
+   padding-left: 65px;
+ }
+ .p5,.img5{
+    width: 45%;
+    float: left;
+ 
+ }
+ .clrfix{
+    clear: both;
+ }
+ 
+ .p5{
+   line-height: 25px;
+ }
+ .img5{
+ margin-top: 20px;
+ margin-left: 50px;
+ 
+ }
+ 
+ .p5 ul{
+    list-style: none;
+    text-align: left;
+ }
+ 
+  .p5 ul img{
+    width: 20px;
+    line-height: 29px;
+  }
+
+  /* *?section6 table */
+  .table {
+   background-color: #c8c8f3;
+   margin: auto;
+ }
+ .table thead td {
+   color: #2b2d42;
+   font-weight: bolder;
+   font-size: large;
+ }
+ .table img {
+   width: 20px;
+ }
+ td a {
+   text-decoration: none;
+   color: #494747;
+ }
+ table td {
+   color: #494747;
+ }
+ 
+ table td {
+   padding-left: 20px;
+ }
+ span img{
+   width: 20px;
+ }
+ 
+ /* *? section7 footer */
+ .footer{
+   background-color: chocolate;
+   text-align: center;
+   margin: auto;
+   /* *?remove margins */
+ }
+ .footer img {
+   width: 20%;
+ }
+ .footer p{
+   font-size: 14px;
+   color: bisque;
+ }
+
+.footer span img{
+   width: 30px;
+}
+
